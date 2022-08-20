@@ -41,5 +41,5 @@ console.log(contador);
 //     a b c
 // }
 // if (a < b && a > c && b > c){
-//     b c a 
+//     b a c 
 // }
